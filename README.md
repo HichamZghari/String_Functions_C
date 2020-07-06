@@ -1,0 +1,1 @@
+Here is the implementation of some functions to manipulate string in C/C++ with the names of python functions.
